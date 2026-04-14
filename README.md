@@ -1,4 +1,4 @@
-# ![LOGO](images/doc/favicon-original.png) Photo2Pixel
+# ![LOGO](images/doc/favicon-original.png) Pirulpixel
 
 ---
 English | [简体中文](./README_cn.md)
