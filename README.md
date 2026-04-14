@@ -1,7 +1,7 @@
 # ![LOGO](images/doc/favicon-original.png) PirulPixel
 
 ---
-[KLIK DISINI BOS](https://colab.research.google.com/drive/108np4teybhBXHKbPMZZ1fykDuUeF2aw8?usp=sharing) |
+[KLIK DISINI BOS](https://colab.research.google.com/drive/108np4teybhBXHKbPMZZ1fykDuUeF2aw8?usp=sharing)
 
 PirulPixel adalah P Irul tapi Pixel
 
