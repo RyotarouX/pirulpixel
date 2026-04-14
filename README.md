@@ -1,7 +1,7 @@
 # ![LOGO](images/doc/favicon-original.png) PirulPixel
 
 ---
-[KLIK DISINI BOS](https://colab.research.google.com/drive/108np4teybhBXHKbPMZZ1fykDuUeF2aw8?usp=sharing)
+[KLIK DISINI BOS](https://colab.research.google.com/drive/12GLtC4m_AGfw0kB6tsmu__weGiRZn9T5?usp=sharing)
 
 PirulPixel adalah P Irul tapi Pixel
 
@@ -9,7 +9,6 @@ PirulPixel adalah P Irul tapi Pixel
 <img src="images/doc/holy_temple_8bit_style_pixel.png" style="max-width: 850px" alt="holy temple 8bit style pixel art">
 
 ---
-LANGSUNG [KLIK DISINI](hhttps://colab.research.google.com/drive/12GLtC4m_AGfw0kB6tsmu__weGiRZn9T5?usp=sharing),
 or you can run it with command as bellow:
 ```bash
 # use default param
