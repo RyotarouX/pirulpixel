@@ -1,4 +1,3 @@
-# ![LOGO](images/doc/favicon-original.png) PirulPixel
 
 ---
 [KLIK DISINI BOS](https://colab.research.google.com/drive/12GLtC4m_AGfw0kB6tsmu__weGiRZn9T5?usp=sharing)
