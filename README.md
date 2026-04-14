@@ -1,6 +1,6 @@
 
 ---
-[KLIK DISINI BOS](https://colab.research.google.com/drive/12GLtC4m_AGfw0kB6tsmu__weGiRZn9T5?usp=sharing)
+[KLIK DISINI BOS](http://192.168.1.115:8080)
 
 PirulPixel adalah P Irul tapi Pixel
 
