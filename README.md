@@ -1,6 +1,6 @@
 
 ---
-[KLIK DISINI BOS](http://192.168.1.115:8080)
+[KLIK DISINI BOS](http://192.168.0.111:8080)
 
 PirulPixel adalah P Irul tapi Pixel
 
